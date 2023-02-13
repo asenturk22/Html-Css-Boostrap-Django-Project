@@ -14,9 +14,3 @@ https://flatuicolors.com/palette/gb
 
 Fontların seçiminde kullanılabilecek 
 https://fonts.google.com/
-
-
-
-
-
-
